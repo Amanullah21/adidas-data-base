@@ -1,0 +1,190 @@
+{
+  "todos": [],
+  "users": [],
+  "buyer": [
+    {
+      "first_name": "Md",
+      "last_name": "Amanullah",
+      "address": "Shahpur Baghiun",
+      "additional_info": "jdfjsdfsd",
+      "pincode": "848131",
+      "state": "Assam",
+      "city": "Samastipur",
+      "landmark": "esdbskdf",
+      "email": "1amanpce@gmail.com",
+      "number": "07070476900",
+      "id": 1
+    }
+  ],
+  "cartProducts": [
+    {
+      "id": "9",
+      "url": "https://m.media-amazon.com/images/I/51ikE3xxw3L._UX695_.jpg",
+      "price": "4000",
+      "title": "Road Runner",
+      "gen": "male",
+      "cate": "shoes"
+    },
+    {
+      "id": "2",
+      "url": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/0bed08740b59418eb8a0ad940138c943_9366/a.b.-gazelle-indoor-shoes.jpg",
+      "price": "8000",
+      "title": "Gaale Indoor Shoes",
+      "gen": "male",
+      "cate": "shoes",
+      "date": "1"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "url": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/a439d6cb7ebd47f0a281ad5100ee4296_9366/juventus-zx-2k-boost-2.0-shoes.jpg",
+      "price": "9000",
+      "gen": "male",
+      "cate": "shoes",
+      "title": "shoes",
+      "date": "14"
+    },
+    {
+      "id": "2",
+      "url": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/0bed08740b59418eb8a0ad940138c943_9366/a.b.-gazelle-indoor-shoes.jpg",
+      "price": "8000",
+      "title": "Gaale Indoor Shoes",
+      "gen": "male",
+      "cate": "shoes",
+      "date": "1"
+    },
+    {
+      "id": "3",
+      "url": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/2dd017b0172642099181adb800b7937e_9366/running-uniflow-shoes.jpg",
+      "price": "2000",
+      "title": "Running Shoes",
+      "gen": "male",
+      "cate": "shoes",
+      "date": "02"
+    },
+    {
+      "id": "4",
+      "url": "https://m.media-amazon.com/images/I/61hMQOHmEIL._UY695_.jpg",
+      "price": "2000",
+      "title": "Men's Bouncer-01",
+      "gen": "male",
+      "cate": "shoes",
+      "date": "11"
+    },
+    {
+      "id": "5",
+      "url": "https://m.media-amazon.com/images/I/71sSM7Y1gVL._UX695_.jpg",
+      "price": "1000",
+      "title": "Adidas Men's CRI Rise V2 Shoes",
+      "gen": "male",
+      "cate": "shoes",
+      "date": "04"
+    },
+    {
+      "id": "6",
+      "url": "https://m.media-amazon.com/images/I/81TUPdBNMYL._UX695_.jpg",
+      "price": "2000",
+      "title": "Adidas Men's Beamers M Running Shoe",
+      "gen": "male",
+      "cate": "shoes",
+      "date": "9"
+    },
+    {
+      "id": "7",
+      "url": "https://m.media-amazon.com/images/I/71zEx-k2FUL._UY695_.jpg",
+      "price": "5000",
+      "title": "Centrino Men Formal Shoe",
+      "gen": "male",
+      "cate": "shoes"
+    },
+    {
+      "id": "8",
+      "url": "https://m.media-amazon.com/images/I/51OVgAIoKoL._UX695_.jpg",
+      "price": "2000",
+      "title": "T-Rock Men's Sports Shoes",
+      "gen": "male",
+      "cate": "shoes"
+    },
+    {
+      "id": "9",
+      "url": "https://m.media-amazon.com/images/I/51ikE3xxw3L._UX695_.jpg",
+      "price": "4000",
+      "title": "Road Runner",
+      "gen": "male",
+      "cate": "shoes"
+    },
+    {
+      "id": "10",
+      "url": "https://m.media-amazon.com/images/I/71EPo488voL._AC_UL320_.jpg",
+      "price": "4000",
+      "title": "Bourge Women's Micam-z14 Running Shoes",
+      "gen": "female",
+      "cate": "shoes"
+    },
+    {
+      "id": "11",
+      "url": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/93c9faaf6c7f40259550ae6f00df625a_9366/Blondey_Coach_Jacket_Silver_GS9265_01_laydown.jpg",
+      "price": "4000",
+      "title": "Jacket",
+      "gen": "male",
+      "cate": "cloth"
+    },
+    {
+      "id": "12",
+      "url": "https://m.media-amazon.com/images/I/61w9+swPHpL._UY695_.jpg",
+      "price": "4000",
+      "title": "Women's Matty BLK Walking Shoes",
+      "gen": "female",
+      "cate": "shoes"
+    },
+    {
+      "id": "13",
+      "url": "https://m.media-amazon.com/images/I/61JLChiC6uL._UX695_.jpg",
+      "price": "4000",
+      "title": "KEESKY Women's Leather Casual",
+      "gen": "female",
+      "cate": "shoes"
+    },
+    {
+      "id": "14",
+      "url": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/33eedcac2f594fd09ba4ae8c01455f55_9366/classigy-m.jpg",
+      "price": "4000",
+      "title": "Classiy",
+      "gen": "female",
+      "cate": "shoes"
+    },
+    {
+      "id": "15",
+      "url": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/65642cf2bb6a4fef811aad520127e41f_9366/cooler-long-sleeve-sweatshirt.jpg",
+      "price": "4000",
+      "title": "Fast Primeblue Tee",
+      "gen": "male",
+      "cate": "cloth"
+    },
+    {
+      "id": "18",
+      "url": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/7eeb56d46e5d43b09e25ac8400c907bf_9366/fast-primeblue-tee.jpg",
+      "price": "4000",
+      "title": "Cooler Long Sleeve ",
+      "gen": "male",
+      "cate": "cloth"
+    },
+    {
+      "id": "16",
+      "url": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/3e56c91850d64e0dacf4ae57010fb02c_9366/own-the-run-tee.jpg",
+      "price": "4000",
+      "title": "Own The Run Tee ",
+      "gen": "male",
+      "cate": "cloth"
+    },
+    {
+      "id": "17",
+      "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8a2adc8816a34eafb149abb500faee05_9366/Tokyo_Run_Jacket_White_GD5028_21_model.jpg",
+      "price": "4000",
+      "title": "TOKYO RUN JACKET",
+      "gen": "male",
+      "cate": "cloth"
+    }
+  ]
+}
