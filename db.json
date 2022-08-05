@@ -464,5 +464,32 @@
       "text3": "This article sheds light on the places around Bangalore that can be explored with a rented two-wheeler and the tips that would help one avail bike rental in Bangalore.",
       "img": "https://d3vp2rl7047vsp.cloudfront.net/articles/article_images/000/000/009/med/bangalore1-reuters-traffic-moves-along-a-road-in-the-southern-indian-city-of-bangalore-december-14-2005.jpg"
     }
+  ],
+
+  "food": [
+    {
+      "id": 1,
+      "name": "Hamburger",
+      "price": "200",
+      "image": "https://bitbucket.org/punitdiwan/coding-challange/raw/08a0e129e1e3992a6d3d87d737332dc7ca7a79e4/assets/burger.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Fries",
+      "price": "100",
+      "image": "https://bitbucket.org/punitdiwan/coding-challange/raw/08a0e129e1e3992a6d3d87d737332dc7ca7a79e4/assets/coke.jpeg"
+    },
+    {
+      "name": "Coke",
+      "price": "50",
+      "image": "coke.jpeg",
+      "id": 3
+    },
+    {
+      "name": "Pepsi",
+      "price": "50",
+      "image": "https://bitbucket.org/punitdiwan/coding-challange/raw/08a0e129e1e3992a6d3d87d737332dc7ca7a79e4/assets/pepsi.jpeg",
+      "id": 4
+    }
   ]
 }
